@@ -56,3 +56,15 @@ Las novedades y cambios del material se documentan en [CHANGELOG.md](CHANGELOG.m
 |---|----------|-------|
 | 01 | Perceptrón Multicapa (MLP) — Clasificación con scikit-learn | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CristianPacifico/ia-ls-fcad-uner/blob/main/notebooks/ml/ann/01_ANN_MLP_Classifier.ipynb) |
 | 02 | Redes Neuronales con Keras — Clasificación MNIST | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CristianPacifico/ia-ls-fcad-uner/blob/main/notebooks/ml/ann/02_ANN_Keras_MNIST.ipynb) |
+
+## Búsqueda en IA
+
+| # | Notebook | Colab |
+|---|----------|-------|
+| 01a | Resolución de Laberinto — BFS y DFS (implementación desde cero) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CristianPacifico/ia-ls-fcad-uner/blob/main/notebooks/search/01a_Laberinto_BFS_DFS.ipynb) |
+| 01b | Laberinto con `simpleai` — BFS, DFS, UCS e IDS | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CristianPacifico/ia-ls-fcad-uner/blob/main/notebooks/search/01b_Laberinto_simpleai.ipynb) |
+| 01 | Búsqueda No Informada — BFS, DFS, UCS, IDS | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CristianPacifico/ia-ls-fcad-uner/blob/main/notebooks/search/01_BusquedaNoInformada.ipynb) |
+| 02 | Búsqueda Informada — Greedy, A\*, IDA\* | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CristianPacifico/ia-ls-fcad-uner/blob/main/notebooks/search/02_BusquedaInformada.ipynb) |
+| 03 | Búsqueda Adversaria — Minimax, Alpha-Beta Pruning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CristianPacifico/ia-ls-fcad-uner/blob/main/notebooks/search/03_BusquedaAdversaria.ipynb) |
+| 04 | Búsqueda Local — Hill Climbing, Simulated Annealing, Algoritmos Genéticos | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CristianPacifico/ia-ls-fcad-uner/blob/main/notebooks/search/04_BusquedaLocal.ipynb) |
+| 05 | Planificación PDDL — Blocksworld con pyperplan | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CristianPacifico/ia-ls-fcad-uner/blob/main/notebooks/search/05_Planificacion_PDDL.ipynb) |
