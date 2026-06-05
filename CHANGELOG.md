@@ -2,6 +2,14 @@
 
 Todas las novedades relevantes del material de la catedra se registran en este archivo.
 
+## 2026-06-05
+
+### Agregado
+- `06_Problemas_Satisfaccion_Restricciones.ipynb` — Introducción a CSPs con ejemplos usando `python-constraint` y `OR-Tools`:
+  - Conceptos fundamentales: variables, dominios, restricciones
+  - Ejemplos simples y problemas clásicos (Coloreo de mapas, N-Reinas, Sudoku, Criptaritmo)
+  - Comparativa de librerías y recomendaciones de uso
+
 ## 2026-05-22
 
 ### Cambiado
