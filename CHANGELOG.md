@@ -5,10 +5,13 @@ Todas las novedades relevantes del material de la catedra se registran en este a
 ## 2026-06-05
 
 ### Agregado
-- `06_Problemas_Satisfaccion_Restricciones.ipynb` — Introducción a CSPs con ejemplos usando `python-constraint` y `OR-Tools`:
+- `05_Problemas_Satisfaccion_Restricciones.ipynb` — Introducción a CSPs con ejemplos usando `python-constraint`, `simpleai` y `OR-Tools`:
   - Conceptos fundamentales: variables, dominios, restricciones
   - Ejemplos simples y problemas clásicos (Coloreo de mapas, N-Reinas, Sudoku, Criptaritmo)
   - Comparativa de librerías y recomendaciones de uso
+
+### Cambiado
+- Renumerado: CSP pasa a ser notebook 05, Planificación PDDL pasa a ser 06
 
 ## 2026-05-22
 
